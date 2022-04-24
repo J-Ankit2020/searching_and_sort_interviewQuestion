@@ -1,7 +1,3 @@
-# Searching And Sorting
-
-
-
 # Searching And sorting
 
 # Topic : Binary Search
