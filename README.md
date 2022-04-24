@@ -1,11 +1,9 @@
 # Searching And sorting
 
 # Topic : Binary Search
-
-<aside>
-💡 It can be applied to sorted array as well as unsorted array ( ex: mountain array). In bs we have to check if the **mid has the answer if it doesn’t have just discard the left or the right part on the condition**
-
-</aside>
+``
+💡 It can be applied to sorted array as well as unsorted array ( ex: mountain array). In bs we have to check if the mid has the answer if it doesn’t have just discard the left or the right part on the condition
+``
 
 ## Questions done
 
